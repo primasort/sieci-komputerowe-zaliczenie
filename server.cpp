@@ -256,7 +256,7 @@ void counting_down_and_check(int seconds){
 
 char letter_random(){
     srand(time(NULL));
-    int random_index = rand() % 20;
+    int random_index = rand() % 18;
     cout << "Wylosowana litera: " << letters[random_index] << endl;
 
     return letters[random_index];
