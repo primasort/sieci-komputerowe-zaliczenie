@@ -1,0 +1,390 @@
+Aniza
+Andy
+Alpy
+Alpy Dinarckie
+Alpy Francuskie
+Alpy Julijskie
+Alpy Zillertalskie
+Alpy Karskie
+Alpy Krasowe
+Alpy Lechtalskie
+Alpy Lichtensteinskie
+Alpy Międzyszwajcarskie
+Bory Tucholskie
+Bałkany
+Bałkany Centralne
+Bałkany Południowe
+Bałkany Północne
+Bałkany Zachodnie
+Bawaria
+Beneluks
+Bieszczady
+Błękity
+Błękity Północne
+Carpatia
+Carpatia Zachodnia
+Carpatia Wschodnia
+Carpatia Południowa
+Carpatia Centralna
+Cesarstwo Niemieckie
+Cesarstwo Austro-Węgierskie
+Côte d'Azur
+Czerwone Morze
+Czurych
+Coll d’Ordino
+Coll de la Gallina
+Dolina Renu
+Dolina Saale
+Dolina Ruhr
+Dolina Loary
+Dolina Górnej Renu
+Dolina Górnej Wisły
+Dolina Kaczawy
+Dolina Prądnika
+Dolina Regenu
+Dolina Wupper
+Dolny Śląsk
+Drawa
+Dunaj
+Dyja
+Emilia
+Epir
+Erzgebirge
+Etna
+Ewroregiony
+Ewrosił
+Ewropejskie Obszary Chronione
+Ewropejski Obszar Gospodarczy
+Ewropejski Obszar Badań
+Ewropejski Obszar Gospodarczy
+Estany de l’Illa
+Estanys de Juclar
+Estanys de la Val del Riu
+Estanys de Tristaina
+Estanys dels Pessons
+Flandria
+Floryda
+Franconia
+Francja Centralna
+Francja Zachodnia
+Franche-Comté
+Friesland
+Friuli
+Frýdek-Místek
+Fryzja
+Fryzja Wschodnia
+Galicja
+Galicja Zachodnia
+Gdańska Aglomeracja
+Glarus
+Góra Czarna
+Góra Czerwona
+Góra Elbrus
+Góra Fudżi
+Góra Olimp
+Gibraltar
+Góra ParnasGóry Świętokrzyskie
+ebrony
+Helwecja
+Helwetia
+Hesja
+Hiszpania Północna
+Hiszpania Południowa
+Hrabstwo Tyrol
+Izara
+Inowrocławski Przełom Wisły
+Istrija
+Istryjski Przesmyk
+Izery
+Izyda
+Jezioro Bodeńskie
+Jezioro Halsztackie
+Jezioro Nezyderskie
+Jezioro Balaton
+Jezioro Białe
+Jezioro Czad
+Jezioro Como
+Jezioro Erytrea
+Jezioro Genezaret
+Jezioro Genewskie
+Jezioro Garda
+Jezioro Genewskie
+Jukatan
+Kanał Dunajski
+Kanin
+Kajl
+Karkonosze
+Karpaty Bukowińskie
+Karpaty Czyńskie
+Karpaty Marmaroskie
+Karpaty Połoniny
+Kaskady Alpejskie
+Katalonia
+Kaukaz
+Kawałek Neapolu
+Kotlina Panońska
+Kujawy
+Labrador
+Lazurowe Wybrzeże
+Liguria
+Lubelszczyzna
+Lubuskie
+Łużyce
+Mazowsze
+Mała Nizina Naddunajska
+Mała Nizina Węgierska
+Małopolska
+Morawa
+Morze Czarne
+Morze Północne
+Morze Karskie
+Morze Łaptiewów
+Morze Wschodnie Syberyjskie
+Morze Czukockie
+Morze Beringa
+Morze Ochockie
+Morze Japońskie
+Morze Atamańskie
+Morze Arabskie
+Morze Czerwone
+Morze Karskie
+Morze Białe
+Morze Barentsa
+Morze Norweskie
+Morze Śródziemne
+Morze Egejskie
+Morze Adriatyckie
+Morze Liguryjskie
+Morze Tyrreńskie
+Morze Jońskie
+Morze Azowskie
+Mura
+Nadrenia
+Nadrenia Północna-Westfalia
+Nadrenia-Palatynat
+Napoli
+Narodowe Parki Narodowe
+Naddniestrze
+Nadleśnictwo Puszcza Notecka
+Nádraží
+Nafpaktos
+Nantes
+Nizina Środkowodunajska
+Nizina Indusu
+Nizina Eufratu i Tygrysu
+Nizina Turańska
+Nizina Hudsońska
+Nizina Atlantycka
+Nizina Zatokowa
+Nizina Platy
+Nizina Orinoko
+Nizina Amazonki
+Nizina Gangesu
+Nizina Mandżurska
+Nizina Chińska
+Nizina Zachodnio Syberyjska
+Nizina Wschodnioeuropejska
+Nizina Polska
+Nizina Niemiecka Francuska
+Nizina Węgierska
+Nizina Rumuńska
+Nizina Czarnomorska
+Nizina Doliny Rodanu
+Nizina Padu
+Nizina Andaluzyjska
+Nowy Dunaj
+Opolskie
+Okres Náchod
+Okres Nitra
+Oksywia
+Olsztynski Przełom Wisły
+Opawskie Wyspy
+Opole Lubelskie
+Oresund
+Orle Gniazdo
+Osłony
+Ostrzeszowski Przełom Baryczy
+Podbeskidzie
+Pannonia
+Pieniny
+Piemont
+Pireneje
+Pisz
+Podgórze
+Podhale
+Podkarpacie
+Podlasie
+Pomorze
+Port d’Envalira
+Port de Cabús
+Półwysep Kolski
+Półwysep Bretoński
+Półwysep Bałkański
+Półwysep Jutlandzki
+Półwysep Skandynawski
+Półwysep Iberyjski
+Półwysep Apeniński
+Półwysep Gydański
+Półwysep Tajmy
+Półwysep Czukocki
+Półwysep Koreański
+Półwysep Indochiński
+Półwysep Malajski
+Półwysep Indyjski
+Półwysep Arabski
+Półwysep Somalijski
+Półwysep Kalifornijski
+Półwysep Alaski
+Puszcza Białowieska
+Puszcza Kampinoska
+Puszcza Knyszyńska
+Puszcza Notecka
+Puszcza Napiwodzko-Ramucka
+Puszcza Zielonka
+Puszcza Augustowska
+Pustynia Wiktorii
+Pustynia Gibsona
+Przylądek Nordkap
+Przylądek Matapan
+Przylądek Roca
+Przylądek Marroqui
+Raba
+Ren
+Riu d’Arinsal
+Riu d’Ós
+Riu Valira; Riu Gran Valira
+Riu Valira d’Orient
+Riu Valira del Nord
+Randstad
+Rhineland
+Riwiera Adriatycka
+Riwiera Cezasu
+Riwiera Liguryjska
+Riwiera Turecka
+Riwiera Włoska
+Rodopy
+Romandia
+Rumelia
+Stary Dunaj
+Suwalszczyzna
+Sardynia
+Sardynia Południowa
+Sardynia Północna
+Sardynia Środkowa
+Sardynia Wschodnia
+Sardynia Zachodnia
+Sarmacja
+Sarmacja Środkowa
+Sarmacja Wschodnia
+Sarmacja Zachodnia
+Seward
+Tyrol
+Tatry
+Terra Alta
+Tesalonika
+Thessaloniki
+Toskania
+Transilwania
+Trójmiasto
+Turan
+Turcja Europejska
+Turyngia
+Ujście
+Ujście Brdy
+Ujście Drwęcy
+Ujście Jeziora Wigry
+Ujście Nysy Kłodzkiej
+Ujście Odry
+Ujście Vltavy
+Ujście Warty
+Ujście Wisły
+Ujście Wisły Środkowej
+Vende
+Vall del Valira
+Vall del Valira d’Orient
+Vall del Valira del Nord
+Valls d’Andorra
+Walencja
+Warmia
+Wartheland
+Wazów
+Weleka Morawa
+Wenecja
+Weserbergland
+Weser-Ems
+Westerwald
+West Midlands
+Wielkopolska
+Wyspa Wielka Brytania
+Wyspa Nowa Ziemia
+Wyspa Svalbard
+Wyspy Owcze
+Wyżyna Nadwołżańska
+Wyżyna Środkoworosyjska
+Wyżyna Wołyń
+Wyżyna Podole
+Wyżyna Bawarska
+Wyżyna Czesko – Morawska
+Wyżyna Transylwańska
+Wyżyna Tybetańska
+Wyżyna Irańska
+Wyżyna Srodkowosyberyjska
+Wyżyna Abisyńska
+Wyżyna Wschodnio Afrykańska
+Wyżyna Szottów
+Wyżyna Atlas
+Wyżyna Jukonu
+Wyżyna Kolumbii
+Wyżyna Kolorado
+Wyżyna Meksykańska
+Wyżyna Brazylijska
+Wyżyna Gujańska
+Wyżyna Patagońska
+Xieng Khouang
+Xinjiang
+Xivares
+Xixón
+Xłopice
+Yonne
+York
+Yorkshire
+Yvelines
+Yverdon
+Ziemia Lubuska
+Ziemia Łódzka
+Ziemia Sandomierska
+Ziemia Śląska
+Ziemia Świętokrzyska
+Ziemia Chełmska
+Ziemia Kielecka
+Ziemia Krakowska
+Ziemia Lęborska
+Ziemia Łomżyńska
+Ziemia Opolska
+Ziemia Piotrkowska
+Ziemia Płocka
+Ziemia Pomorska
+Ziemia Poznańska
+Ziemia Radomska
+Ziemia Sieradzka
+Ziemia Suwalska
+Ziemia Tarnowska
+Ziemia Toruńska
+Ziemia Wieluńska
+Ziemia Włocławska
+Ziemia Zamojska
+Ziemia Zielona Góra
+Ziemia Łużycka
+Żuławy
+Żywiecczyzna
+Zakarpacie
+Zakopane
+Zapadlisko Śląskie
+Zapora Solina
+Zatoka Gdańska
+Zatoka Kilońska
+Zatoka Lubecka
+Zatoka Pomorska
+Zatoka Pucka
+Zatoka Zatoka
+Zatoka Karpentaria
