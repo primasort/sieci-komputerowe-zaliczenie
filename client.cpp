@@ -50,10 +50,6 @@ void game(int client_socket){
             prompt_shown = true; // Ustawienie flagi po wyświetleniu instrukcji
         }
 
-        if(game_started == 1){
-            cout << "Checking flags before entering code block..." << endl;
-            cout << "wpisz enter aby rozpocząć..." << endl;
-        }
 
         if (game_started == 1 && have_name == 1 && permission == 1)
         {
@@ -203,7 +199,7 @@ int main(int argc, char *argv[]){
                 if (strncmp(buffer, "**round_start**", strlen("**round_start**")) == 0) {
                     game_started = true;
                     round_counter++;
-                    cout << "\nRunda " << round_counter << " się rozpoczeła" <<  endl;
+                    cout << "\nRunda  się rozpoczeła" <<  endl;
                     //cout << "game_started = " << game_started << endl;
                     //cout << "have_name = " << have_name << endl;
                     cout << "Wciśnij enter aby kontynuować..." << endl;
@@ -213,6 +209,9 @@ int main(int argc, char *argv[]){
                     chosen_letter = buffer[0];
                     game_started = true;
                     round_counter++;
+                    if(round_counter > 2){
+                        round_counter = 1;
+                    }
                     cout << "\nRunda " << round_counter << endl;
                     continue;
                 }

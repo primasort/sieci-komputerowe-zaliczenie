@@ -47,6 +47,11 @@ struct Client{
     int points = 0;
     string given[6];
     int next_given_word_index = 0;
+
+    //  operator porównujący klientów (umożliwia porównywanie klientów) 
+    bool operator==(const Client &other) const {
+        return socket == other.socket;
+        }
 };
 
 // deklaracje zmiennych globalnych
@@ -66,6 +71,9 @@ char letters[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'i', 'j',
                   'k', 'l', 'm', 'n', 'p', 'r', 's', 't', 'w'};
 char chosen_letter; // wylosowana litera
 bool accept_proposals = false; // flaga informująca czy można przyjmować propozycje haseł od klientów
+
+// lista grających klientów
+vector<Client> playing_clients;
 
 // deklaracje funkcji
 void load_data();
@@ -288,6 +296,16 @@ void count_points(){
     }
 
 
+    // jeżeli jakiś aktywny klient nie znajduje się na liście grających, a ma zapisane jakieś propozycje haseł to je usuwamy
+    for(int i = 0; i < number_of_clients; i++){
+        if(find(playing_clients.begin(), playing_clients.end(), clients_list[i]) == playing_clients.end()){
+            for(int j = 0; j < 6; j++){
+                clients_list[i].given[j] = "";
+            }
+        }
+    }
+
+
     // sprawdzamy czy propozycje haseł pokrywają się z tymi pobranymi z plików
     // jeżeli tak to dodajemy punkty
     for(int i = 0; i < number_of_clients; i++){
@@ -311,7 +329,7 @@ void count_points(){
             cout << "Klient " << clients_list[i].name << " dostał punkt za krainę" << endl;
             clients_list[i].points++;
         }
-        if(find(dyscypliny, dyscypliny + 1, clients_list[i].given[5]) != dyscypliny + 185){
+        if(find(dyscypliny, dyscypliny + 185, clients_list[i].given[5]) != dyscypliny + 185){
             cout << "Klient " << clients_list[i].name << " dostał punkt za dyscyplinę" << endl;
             clients_list[i].points++;
         }
@@ -367,6 +385,10 @@ void game(){
                 // wyślij do klientów pozwolenia na rozpoczęcie gry
                 message = "**permission**";
                 send_to_all(message);
+                // przypisz wszystkim aktywnym klientom playing_clients
+                for(int i = 0; i < number_of_clients; i++){
+                    playing_clients.push_back(clients_list[i]);
+                }
                 for(int x = 0; x < number_of_rounds; x++){
                     counting_down_and_check(5); // sprawdzamy czy liczba klientów jest większa niż 1
                     if(check_result != -1){ // jeżeli mamy wystarczająco dużo graczy, to kontynuujemy
@@ -383,7 +405,21 @@ void game(){
                         //*******************************
                         // ustawiamy flagę nasłuchoiwania propozycji haseł na true
                         accept_proposals = true;
+                        //*******************************
+                        // rozpoczynamy odliczanie dokładnie wtedy kiedy choć jeden klient wyśle wsyzstkie propozycje haseł
+                        while(true){
+                            bool all_given = false;
+                            for(int i = 0; i < number_of_clients; i++){
+                                if(clients_list[i].given[5] != ""){
+                                    all_given = true;
+                                }
+                            }
+                            if(all_given == true){
+                                break;
+                            }
+                        }
 
+                        //*******************************
                         counting_down_and_check(30); // czekamy 10 sekund na propozycje haseł od klientów
                     }
                     // po okresie oczekiwania przerywamy nasłuchiwanie i podliczamy punkty
